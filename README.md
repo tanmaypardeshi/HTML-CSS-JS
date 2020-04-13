@@ -6,5 +6,5 @@
 
 * Module 2 Assignment:
   1. [Assignment Description]()
-  2. [My Soltion]()
+  2. [My Solution]()
   3. [View the page here]()
