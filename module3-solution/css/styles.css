@@ -11,7 +11,7 @@ body {
 .navbar-brand span {
     color: #fff;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .navbar-light .navbar-toggler {
@@ -21,4 +21,30 @@ body {
 
 .nav-item {
     text-align: center;
+}
+
+.text-center {
+    font-weight:500;
+    font-size: 3em;
+    color: #fff;
+    padding: 20px 0px 20px;
+}
+
+.row {
+    background-color: #007bff;
+    width: 90%;
+    margin: auto;
+    color: #fff;
+}
+
+div > h2 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+div > p {
+    padding: 10px 20px 10px 20px;
+    
 }
