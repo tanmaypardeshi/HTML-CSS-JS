@@ -6,5 +6,5 @@
 
 * Module 2 Assignment:
   1. [Assignment Description]()
-  2. [My Solution]()
+  2. [My Solution](https://github.com/tanmaypardeshi/HTML-CSS-JS/blob/gh-pages/README.md)
   3. [View the page here]()
