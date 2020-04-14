@@ -21,7 +21,13 @@ body {
 
 .nav-item {
     text-align: center;
+    background-color: rgb(75, 189, 255);
+    font-size: 1.2em;
+    font-weight: bold;
+    width: 100%;
 }
+
+
 
 .text-center {
     font-weight:700;
