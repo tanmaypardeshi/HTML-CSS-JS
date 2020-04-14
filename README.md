@@ -21,8 +21,8 @@
   2. [My Solution](https://github.com/tanmaypardeshi/HTML-CSS-JS/tree/gh-pages/module4-solution)
   3. [View the HTML page here](https://tanmaypardeshi.github.io/HTML-CSS-JS/module4-solution/)
   
-  * **Module 5 Assignment:**
-  1. [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
-  2. [My Solution](https://github.com/tanmaypardeshi/HTML-CSS-JS/tree/gh-pages/module5-solution)
-  3. [View the HTML page here](https://tanmaypardeshi.github.io/HTML-CSS-JS/module5-solution/)
+* **Module 5 Assignment:**
+1. [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+2. [My Solution](https://github.com/tanmaypardeshi/HTML-CSS-JS/tree/gh-pages/module5-solution)
+3. [View the HTML page here](https://tanmaypardeshi.github.io/HTML-CSS-JS/module5-solution/)
 
