@@ -49,6 +49,7 @@ body {
 }
 
 #nav-list a {
+    /*text-align: center;*/
     font-weight: bolder;
     color: #282828;
     font-size: 1.2em;
@@ -71,7 +72,7 @@ body {
 
 #main-content {
     width: 92%;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 #main-content h2 {
@@ -87,10 +88,13 @@ body {
     margin-bottom: 1em;
 }
 
-#main-section {
-    background-color: #82d06b;
-    box-shadow: 0 0 50px #0f5900;
-    padding: 30px;
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #99ed7b;
+    margin-bottom: 60px;
+    box-shadow: 0 0 80px #18580b;
 }
+
 
 /** END HOME PAGE **/
