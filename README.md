@@ -29,4 +29,6 @@
   3. [View the HTML page here](https://tanmaypardeshi.github.io/HTML-CSS-JS/module5-solution/)
 
 #### Here is my course certificate<br>
-[embed]https://github.com/tanmaypardeshi/HTML-CSS-JS/blob/gh-pages/Certificate.pdf[/embed]
+[embed]
+https://github.com/tanmaypardeshi/HTML-CSS-JS/blob/gh-pages/Certificate.pdf
+[/embed]
