@@ -28,5 +28,5 @@
   2. [My Solution](https://github.com/tanmaypardeshi/HTML-CSS-JS/tree/gh-pages/module5-solution)
   3. [View the HTML page here](https://tanmaypardeshi.github.io/HTML-CSS-JS/module5-solution/)
 
-**Here is my course certificate: **https://github.com/tanmaypardeshi/HTML-CSS-JS/blob/gh-pages/Certificate.pdf
+**Here is my course certificate:** https://github.com/tanmaypardeshi/HTML-CSS-JS/blob/gh-pages/Certificate.pdf
 
